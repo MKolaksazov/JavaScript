@@ -1,1 +1,12 @@
 
+An example task, showing the application of node.js framework on mysql database catalogue.
+
+The catalogue was written in html file (index.html)
+
+The node.js framework used the app.js for loading the html on the localhost, port 5000.
+
+For convenience, the details about the database were stored in DbSerice.js
+
+index.js was used to apply the JavaScript functionality of the html.
+
+The both files package.json and package-lock.json contain information about the node.js server
